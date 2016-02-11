@@ -70,7 +70,11 @@ The _"co-ownership"_ part is significant. It means that the members of the co-op
 
 > Members of the co-op have a claim on the assets, and if the business ends then members and possibly recent ex-members will take a share of the assets, often in proportion to how long they have worked for the co-op. The assets of the co-op are seen as the result of the work done by members.
 
-This is opposed to _"common ownership"_, the more hardcore version, where members are custodians of the co-op, making a living from it, but profits and assets belong to the wider community and are used to preserve the co-op for future generations. That model is similar to a "not-for-profit" org in that, profits would not available as payouts to the members. We may find that we could define ourselves in those terms one day, if we get the hang of using profits to pay for more socially minded open source work, but that is a conversation for later.
+> _[How to set up a Workers Co-op][1]_
+
+This is opposed to _"common ownership"_, the more hardcore version, where members are custodians of the co-op, making a living from it, but profits and assets belong to the wider community and are used to preserve the co-op for future generations.
+
+That model is similar to a "not-for-profit" org; profits would not available as payouts to the members. We may find that we could define ourselves in those terms one day, if we get the hang of using profits to pay for more socially minded open source work, but that is a conversation for later.
 
 ---
 
