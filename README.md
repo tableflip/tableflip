@@ -4,6 +4,10 @@ _What is it & how does it?_
 
 What follows is an outline of how and why we'd establish TABLEFLIP as a workers co-operative, and what that might look like. It is a living document, thoughts and constructive feedback is encouraged.
 
+## TLDR;
+
+A "Co-ownership Workers co-op" inside a "Company Limited by Shares"
+
 ## What is a workers cooperative?
 
 > A business owned and managed collectively by its workers for their mutual benefit.
@@ -23,11 +27,20 @@ From my point of view the purpose of TABLEFLIP becomes one of protecting the peo
 
 The "company" and the "co-op" are different things. Related, but different.
 
+>  In the UK there is no legal form especially designed from scratch for co-ops.
+> Instead co-ops choose a basic legal form, then define themselves as a co-op by what’s in their constitution.
+
+> _[How to set up a Workers Co-op][1]_
+
 TABLEFLIP is a "Private Limited Company" registered at Companies House on the 4th September 2013 as "TABLEFLIP LIMITED", company number 8675539. [There is a certificate to prove it.][2]
 
-For our purposes, British law offers no formal definition of a co-operative. It is an agreement amongst participants rather than a legal entity.
+Our legal form is a "Company Limited by Shares". This means a few things:
 
-The principles that underpin a coop are:
+- **Shares**: Ownership of the company is split between the share holders. We currently have `n` shares equally split between @alanshaw and @olizilla. We paid £1 per share into the business when the company was set up. (all very much TBC, but that's the gist).
+
+- **Limited**: TABLEFLIP is a separate entity from it's employees. If we fail financially, our personal liability for debts is limited to just the share value we paid... unless we act fraudulently or negligently, in which case we would be personally liable.
+
+Other legal forms for a company exist, and whilst there are nuances to it, a co-op can be set up within any of them. A co-op exists as an agreement amongst the participants. There is more to it and lots of history, but the principles that underpin any co-op are:
 
 1. Co-op membership is open and voluntary.
 2. Co-ops are controlled only by their members, who each have equal control.
@@ -37,21 +50,27 @@ The principles that underpin a coop are:
 6. Co-operation among co-ops benefits members and the wider co-op movement.
 7. Co-ops act with concern for the community.
 
-(an evolution of the Rochdale Equitable Pioneers principles, from 1844!)
+_[What is a co-operative? - International Co-operative Alliance][3]_
 
-British law offers no formal definition of a co-operative. It is an agreement amongst participants rather than a legal entity.
+Historical aside: These are an evolution of the Rochdale Equitable Pioneers principles, from 1844. People have been doing this sort of thing for a long time.
 
-> Working for a co-op means that making money isn’t the bottom line
+it's notable that these principles aren't very business oriented, but more focused on working together in a fair way. The key point is **working for a co-op means that making money isn’t the bottom line.**
 
-## Issues
+We will however, continue to run a business, deal with clients, invoice for work, employ people, pay rent and contractors and taxes. We will do so with the agreement that the choices TABLEFLIP makes on how goes about it will be made with everyone who works for it involved, with an equal say, and with transparency.
 
-- Group decision making!
+## TABLEFLIP: a workers co-op for web developers
 
-- Replacing an expoltative boss with self explotation!
-Keep work healthy.
+The proposal, as a starting point, a mimimum viable co-op:
 
-## Decision making
+- We remain a Company Limited by Shares
+- We become a "co-ownership workers co-op".
+- We draft our constitution, and re-submit it as the articles of association for TABLEFLIP LIMITED at companies house.
 
+The _"co-ownership"_ part is significant. It means that the members of the co-op would own the assets and profits of the business.
+
+> Members of the co-op have a claim on the assets, and if the business ends then members and possibly recent ex-members will take a share of the assets, often in proportion to how long they have worked for the co-op. The assets of the co-op are seen as the result of the work done by members.
+
+This is opposed to _"common ownership"_, the more hardcore version, where members are custodians of the co-op, making a living from it, but profits and assets belong to the wider community and are used to preserve the co-op for future generations. That model is similar to a "not-for-profit" org in that, profits would not available as payouts to the members. We may find that we could define ourselves in those terms one day, if we get the hang of using profits to pay for more socially minded open source work, but that is a conversation for later.
 
 ---
 
@@ -59,3 +78,4 @@ A [(╯°□°）╯︵TABLEFLIP](https://tableflip.io) meta-project.
 
 [1]:http://www.radicalroutes.org.uk/publicdownloads/setupaworkerscoop-lowres.pdf
 [2]: https://github.com/tableflip/tableflip/blob/master/tableflip-incorporation-certificate-2013.pdf
+[3]:http://ica.coop/en/what-co-operative
