@@ -6,7 +6,7 @@ What follows is an outline of how and why we'd establish TABLEFLIP as a workers 
 
 ## TLDR;
 
-A "Co-ownership Workers co-op" inside a "Company Limited by Shares"
+A "Employee owned, fully mutual, workers co-op, in co-ownership" trading as a "Company Limited by Shares".
 
 ## What is a workers cooperative?
 
@@ -63,18 +63,30 @@ We will however, continue to run a business, deal with clients, invoice for work
 The proposal, as a starting point, a mimimum viable co-op:
 
 - We remain a Company Limited by Shares
-- We become a "co-ownership workers co-op".
+- We become a "Employee owned, fully mutual workers co-op in co-ownership".
 - We draft our constitution, and re-submit it as the articles of association for TABLEFLIP LIMITED at companies house.
 
-The _"co-ownership"_ part is significant. It means that the members of the co-op would own the assets and profits of the business.
+The _"co-ownership"_ part is significant. It means that the members of the co-op would own the assets and profits of the business.^
 
 > Members of the co-op have a claim on the assets, and if the business ends then members and possibly recent ex-members will take a share of the assets, often in proportion to how long they have worked for the co-op. The assets of the co-op are seen as the result of the work done by members.
 
 > _[How to set up a Workers Co-op][1]_
 
-This is opposed to _"common ownership"_, the more hardcore version, where members are custodians of the co-op, making a living from it, but profits and assets belong to the wider community and are used to preserve the co-op for future generations.
+The _"Employee owned"_ part means "all members are employees, rather than a co-op of self-employed members."
+
+The _"fully mutual"_ part means **only** those employed by the co-op may be members.
+
+## More background
+
+**Common ownership**
+
+The alternative to _"co-ownership"_ is the more hardcore _"common ownership"_, where the members are custodians of the co-op, making a living from it, but profits and assets belong to the wider community and are used to preserve the co-op for future generations.
 
 That model is similar to a "not-for-profit" org; profits would not available as payouts to the members. We may find that we could define ourselves in those terms one day, if we get the hang of using profits to pay for more socially minded open source work, but that is a conversation for later.
+
+**Company Limited by Guarantee**
+
+If we were starting a new business, we would probably choose to make it a Company Limited by Guarantee, as this seems to be the most flexible legal structure for a co-op, whilst being common enough that older funding organisations understand it. But it isn't possible to convert a company limited by shares to limited by guarantee, [without folding the old company and creating a new one][4] which entails re-registering for VAT and bank accounts. As a co-op exits fundamentally in our consitiuion and behaviour, there is no obvious benefit in switching the companies legal form.
 
 ---
 
@@ -83,3 +95,4 @@ A [(╯°□°）╯︵TABLEFLIP](https://tableflip.io) meta-project.
 [1]:http://www.radicalroutes.org.uk/publicdownloads/setupaworkerscoop-lowres.pdf
 [2]: https://github.com/tableflip/tableflip/blob/master/tableflip-incorporation-certificate-2013.pdf
 [3]:http://ica.coop/en/what-co-operative
+[4]:http://www.companylawsolutions.co.uk/converting-company-limited-by-shares-to-company-limited-by-guarantee
