@@ -66,7 +66,7 @@ The proposal, as a starting point, a mimimum viable co-op:
 - We become a "Employee owned, fully mutual workers co-op in co-ownership".
 - We draft our constitution, and re-submit it as the articles of association for TABLEFLIP LIMITED at companies house.
 
-The _"co-ownership"_ part is significant. It means that the members of the co-op would own the assets and profits of the business.^
+The _"co-ownership"_ part is significant. It means that the members of the co-op would own the assets and profits of the business.
 
 > Members of the co-op have a claim on the assets, and if the business ends then members and possibly recent ex-members will take a share of the assets, often in proportion to how long they have worked for the co-op. The assets of the co-op are seen as the result of the work done by members.
 
