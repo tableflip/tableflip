@@ -55,5 +55,7 @@ Keep work healthy.
 
 ---
 
+A [(╯°□°）╯︵TABLEFLIP](https://tableflip.io) meta-project.
+
 [1]:http://www.radicalroutes.org.uk/publicdownloads/setupaworkerscoop-lowres.pdf
 [2]: https://github.com/tableflip/tableflip/blob/master/tableflip-incorporation-certificate-2013.pdf
