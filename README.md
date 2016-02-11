@@ -19,7 +19,13 @@ By agreeing how we handle quiet times where the bank balance dwindles, we can ri
 
 From my point of view the purpose of TABLEFLIP becomes one of protecting the people in it from the rougher edges of freelancing. To give us just enough structure and support to do good work without burning out, or having to do too much work of dubious value, just to pay the bills. Ideally, by looking after the people who are in it, it will free up time and headspace for them to go help others. Step one is make it work for us.
 
-## What is a co-op?
+## What is a co-op, what is a company?
+
+The "company" and the "co-op" are different things. Related, but different.
+
+TABLEFLIP is a "Private Limited Company" registered at Companies House on the 4th September 2013 as "TABLEFLIP LIMITED", company number 8675539. [There is a certificate to prove it.][2]
+
+For our purposes, British law offers no formal definition of a co-operative. It is an agreement amongst participants rather than a legal entity.
 
 The principles that underpin a coop are:
 
@@ -47,8 +53,7 @@ Keep work healthy.
 ## Decision making
 
 
-
-
 ---
 
 [1]:http://www.radicalroutes.org.uk/publicdownloads/setupaworkerscoop-lowres.pdf
+[2]: https://github.com/tableflip/tableflip/blob/master/tableflip-incorporation-certificate-2013.pdf
