@@ -15,7 +15,7 @@ A "Employee owned, fully mutual, workers co-op, in co-ownership" trading as a "C
 
 > _[How to set up a Workers Co-op: Fourth Edition - Summer 2015][1]_
 
-TABLEFLIP ia a group who create good code, and support the community through a commitment to open source ideas, education and meet-ups.
+TABLEFLIP is a group who create good code, and support the community through a commitment to open source ideas, education, and meet-ups.
 
 We benefit from being a co-op by committing to the idea that we all get a say in how we work together. By agreeing how we share the workload and profits we can balance our time between client work and less financially profitable ideas, that could have a much wider benefit.
 
