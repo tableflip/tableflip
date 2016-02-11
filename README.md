@@ -13,13 +13,11 @@ What follows is an outline of how and why we'd establish TABLEFLIP as a workers 
 
 TABLEFLIP ia a group who create good code, and support the community through a commitment to open source ideas, education and meet-ups.
 
-We benefit from being a co-op by committing to the idea that we all get a say in how we work together. By agreeing how we share the workload and profits we can balance our time between client work and less obviously profitable ideas, that may have a much wider benefit.
+We benefit from being a co-op by committing to the idea that we all get a say in how we work together. By agreeing how we share the workload and profits we can balance our time between client work and less financially profitable ideas, that could have a much wider benefit.
 
-By agreeing how we handle quite times where the bank balance dwindles, we can ride out tough times as a team, sharing out the resources fairly until good times return, or, after working with a crew of good people that can all learn something from each other, we decide to pack it in and go do something else, with more ideas in our heads.
+By agreeing how we handle quiet times where the bank balance dwindles, we can ride it out as a team, sharing the resources fairly, until good times return, or, after working with a crew of good people that can all learn something from each other, we decide to pack it in and go do something else, with more ideas in our heads.
 
-From my point of view the purpose of TABLEFLIP becomes one of protecting the people in it from the rougher edges of freelancing. To give us just enough structure and suppport to do good work, without burning out, or having to doing too much work of dubious value, just to pay the bills. Ideally, by looking after the people who are in it, it will free up time and headspace for them to go help others. Step one is make it work for us.
-
-
+From my point of view the purpose of TABLEFLIP becomes one of protecting the people in it from the rougher edges of freelancing. To give us just enough structure and support to do good work without burning out, or having to do too much work of dubious value, just to pay the bills. Ideally, by looking after the people who are in it, it will free up time and headspace for them to go help others. Step one is make it work for us.
 
 ## What is a co-op?
 
