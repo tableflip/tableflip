@@ -6,7 +6,7 @@ What follows is an outline of how and why we'd establish TABLEFLIP as a workers 
 
 ## TLDR;
 
-A "Employee owned, fully mutual, workers co-op, in co-ownership" trading as a "Company Limited by Shares".
+An _"Employee owned, fully mutual, workers co-op, in co-ownership"_ trading as a _"Company Limited by Shares"._
 
 ## What is a workers cooperative?
 
