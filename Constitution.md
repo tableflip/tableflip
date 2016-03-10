@@ -22,10 +22,10 @@ __'Retainer rate'__ a multiple of the base rate agreed by the co-operative that 
 ## PART 2
 ### THE MEMBERS' POWER AND RESPONSIBILITIES
 
-**2.1** Members have a responsibility to conduct the business of TABLEFLIP in accordance with these articles of association.\n
-**2.2** A Member has 1 vote which they can use to vote on decisions presented to the co-operative.\n
-**2.3** A Member must attend meetings of the co-operative and it is their responsibility to make every effort to attend, however members can exercise their vote by proxy (another member can be directed to cast an absent member's vote).\n
-**2.4** Members must honour and abide by any decisions made by the co-operative.
+ **2.1** Members have a responsibility to conduct the business of TABLEFLIP in accordance with these articles of association.
+ **2.2** A Member has 1 vote which they can use to vote on decisions presented to the co-operative.
+ **2.3** A Member must attend meetings of the co-operative and it is their responsibility to make every effort to attend, however members can exercise their vote by proxy (another member can be directed to cast an absent member's vote).
+ **2.4** Members must honour and abide by any decisions made by the co-operative.
 
 #### Becoming a member
 
