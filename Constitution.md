@@ -17,7 +17,7 @@ __'Retainer rate'__ a multiple of the base rate agreed by the co-operative that 
 
 #### Liability of members
 
-**1.2** The liability of the members is limited to the amount, if any, unpaid on the shares help by them.
+**1.2** The liability of the members is limited to the amount, if any, unpaid on the shares held by them.
 
 ## PART 2
 ### THE MEMBERS' POWER AND RESPONSIBILITIES
@@ -111,7 +111,7 @@ Any profit remaining after the conditions above have been honoured shall be awar
 
 #### Statutory Sick Pay
 
-**4.5** Members who become too ill to work shall receive the minimum statutory sick pay for upto 28 weeks. To qualify for statutory sick pay a member must have been sick for 4 consecutive days. After 2 consecutive weeks of statutory sick pay the member must obtain a 'fit-note' from a GP or Hospital Doctor and submit this to the co-operative.
+**4.5** Members who become too ill to work shall receive the minimum statutory sick pay for up to 28 weeks. To qualify for statutory sick pay a member must have been sick for 4 consecutive days. After 2 consecutive weeks of statutory sick pay the member must obtain a 'fit-note' from a GP or Hospital Doctor and submit this to the co-operative.
 
 #### Statutory Leave Entitlement
 
